@@ -12,3 +12,5 @@ consumer_secret = ''
 access_token = ''
 
 access_token_secret = ''
+
+Find in colab = https://colab.research.google.com/drive/1qwTdQHnAriMkA8NeYksIz21EX7lEJUsV
